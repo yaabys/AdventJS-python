@@ -9,4 +9,4 @@ El objetivo es practicar lógica, resolver problemas y mejorar tus habilidades c
 
 ## Estructura del repositorio
 
-Cada reto tiene su carpeta con un nombre descriptivo, por ejemplo:
+Cada reto tiene su carpeta con el nombre descriptivo en este caso el dia y dependiendo de la complejidad de ese dia habrá más archivos o menos.
