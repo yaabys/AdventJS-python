@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://adventjs.dev/es">Visitar AdventJS</a>
+  <a href="https://adventjs.dev/es" target="_blank">Visitar AdventJS</a>
 </p>
 
 # AdventJS Solutions 🎄
