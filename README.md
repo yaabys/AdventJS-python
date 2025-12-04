@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://adventjs.dev/es">
+    <img src="https://avatars.githubusercontent.com/u/1561955?v=4" width="150" alt="Foto">
+  </a>
+</p>
+
 # AdventJS Solutions 🎄
 
 Este repositorio contiene mis soluciones a los retos del AdventJS de midudev. Cada día de diciembre se publica un nuevo reto y aquí iré subiendo mi código.
