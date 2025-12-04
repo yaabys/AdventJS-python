@@ -4,8 +4,9 @@ Este repositorio contiene mis soluciones a los retos del AdventJS de midudev. Ca
 
 ## ¿Qué es AdventJS?
 
-AdventJS es una serie de desafíos de programación que se publican cada día en diciembre, pensados para resolver con **JavaScript**, **TypeScript** o **Python**. :contentReference[oaicite:2]{index=2}  
-El objetivo es practicar lógica, resolver problemas y mejorar tus habilidades como desarrollador. :contentReference[oaicite:3]{index=3}
+AdventJS es una serie de desafíos de programación que se publican cada día en diciembre, pensados para resolver con **JavaScript**, **TypeScript** o **Python**.
+
+El objetivo es practicar lógica, resolver problemas y mejorar tus habilidades como desarrollador.
 
 ## Estructura del repositorio
 
